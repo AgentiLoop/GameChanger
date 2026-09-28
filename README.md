@@ -23,3 +23,8 @@ Game Grid with ability to launch games from populator emulators is planned next!
 
 <img width="1280" alt="GameChanger_2024-12-24_00-59-59" src="https://github.com/user-attachments/assets/81ed8309-c340-4e1a-9b92-5f759db21af2" />
 
+---
+
+**AgentiLoop:** [agentiloop.ai](https://agentiloop.ai/)
+
+Copyright © 2026 AgentiLoop.ai, a Logos InkPen LLC company. All rights reserved.
