@@ -1,3 +1,6 @@
+
+🤖 **Built by the makers of [Agent!](https://github.com/AgentiLoop/Agent)**, an autonomous macOS agent.
+
 Written entirely by Cursor AI (Claude-3.5-Sonnet)
 2,000 lines of code.
 2 days initial work including prompting by human, testing by human, building by AI, debugging by AI, crash reports read in by AI, errors and warnings fixed by AI, bug fixes by AI. Tons of things broken and later fixed by AI. 100% AI code. 100% Human Imagination and Prompting. 100% Swift/SwiftUI.
